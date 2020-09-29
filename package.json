@@ -1,0 +1,19 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipul022/javascript-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipul022/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/vipul022/javascript-testing#readme"
+}
