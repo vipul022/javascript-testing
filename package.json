@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vipul022/javascript-testing/issues"
   },
-  "homepage": "https://github.com/vipul022/javascript-testing#readme"
+  "homepage": "https://github.com/vipul022/javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
