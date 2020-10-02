@@ -36,3 +36,5 @@ module.exports = {
   app,
   server,
 };
+
+//for setting up cicd on git hub create a folder .github and inside create a folder workflows and inside create a file node.yaml and add the code
